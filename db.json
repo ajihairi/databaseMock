@@ -1,5 +1,12 @@
 {
-    "id": 1,
-    "username": "ajiganteng",
-    "password": "ajiganteng"
+    "profile": {
+        "username": "ajihairi",
+        "name": "hamzhya tinnov",
+        "email": "aji@proofn.com",
+        "phone": "+628997096553"
+    },
+    "auth": {
+        "username": "ajiganteng",
+        "password": "ajiganteng"
+    }
 }
